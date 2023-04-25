@@ -167,9 +167,6 @@ class _LoginSecondScreenState extends State<LoginSecondScreen> {
                   const SizedBox(
                     height: 20,
                   ),
-                  // SizedBox(
-                  //   height: 200,
-                  // ),
                   Row(
                     children: const [
                       Flexible(
