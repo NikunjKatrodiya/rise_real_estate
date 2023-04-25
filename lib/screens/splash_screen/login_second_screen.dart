@@ -60,6 +60,7 @@ class _LoginSecondScreenState extends State<LoginSecondScreen> {
                   const SizedBox(
                     height: 40,
                   ),
+                  //SizedBox(),
                   isValid!.isEmpty
                       ? const SizedBox()
                       : Container(
